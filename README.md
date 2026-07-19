@@ -41,7 +41,7 @@ A privacy-first, browser-based compression tool. ZIP your files with adjustable 
 ### Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/n7z.git
+git clone https://github.com/Akhilx12/n7z.git
 cd n7z
 bun install
 ```
