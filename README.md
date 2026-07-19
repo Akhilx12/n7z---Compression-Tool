@@ -19,15 +19,15 @@ Privacy-focused, in-browser file compression with optional AES-256-GCM password 
 ## Getting started
 
 ```bash
-# install deps (bun, pnpm, or npm all work)
-bun install
+# install deps 
+npm install
 
 # start dev server on http://localhost:8080
-bun run dev
+npm run dev
 
 # production build
-bun run build
-bun run preview
+npm run build
+npm run preview
 ```
 
 ## Project structure
